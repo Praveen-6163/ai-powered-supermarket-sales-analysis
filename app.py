@@ -20,6 +20,14 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
+# Vercel Serverless Entrypoint Compatibility Exports
+def handler(request, response=None):
+    return "Supermarket Sales Analysis Streamlit App"
+
+app = handler
+application = handler
+
+
 # Custom CSS for Professional White & Blue Theme
 st.markdown("""
 <style>
