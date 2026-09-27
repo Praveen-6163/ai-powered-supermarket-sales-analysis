@@ -11,7 +11,7 @@ A complete, professional, runnable, and submission-ready academic project develo
 
 ## 🎓 Student Information
 * **Student Name:** Medida Sri Venkata Praveen
-* **Academic Program:** B.Tech - Artificial Intelligence and Machine Learning (AIML)
+* **Academic Program:** B.Tech - Artificial Intelligence and Machine Learning 
 * **Internship Program:** AICTE | IBM SkillsBuild Data Analytics with AI Internship 2026
 * **Project Name:** Supermarket Sales Analysis (Short Title: `Supermarket Sales Analysis`)
 
